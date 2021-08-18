@@ -1,7 +1,7 @@
 [
   {
-    "ggg": "https://raw.githubusercontent.com/Kiwivideo34/p1/main/README.md",
-    "hhh": ".",
-    "jjj": "."
+    "نام": "https://raw.githubusercontent.com/Kiwivideo34/p1/main/README.md",
+    "بام": "https://raw.githubusercontent.com/Kiwivideo34/p1/main/README.md",
+    "تام": "https://raw.githubusercontent.com/Kiwivideo34/p1/main/README.md"
   }
 ]
